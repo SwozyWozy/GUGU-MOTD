@@ -2,7 +2,7 @@
 ### **Please make sure you read our rules!**
 #  
 ### **Make sure you also join our Discord server!**
-<a id="The Official OG Duelyard™ Discord Server">https://discord.gg/VTT6hYBzMx</>
+<a id="GUGU GAGA Duels Discord Server">https://discord.gg/VTT6hYBzMx</>
 #  
 ## **RULES**
 1. NO FFA (except for in FFA zone)
