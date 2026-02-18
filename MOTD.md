@@ -1,8 +1,9 @@
 # **Welcome To GUGU GAGA Duels!**
 ### **Please make sure you read our rules!**
 #  
-### **Make sure you also join our Discord server!**
+### **Make sure you also join our Discord server and check out our website!**
 <a id="GUGU GAGA Duels Discord Server">https://discord.gg/VTT6hYBzMx</>
+<a id="Official GUGU GAGA Duels website">https://guguduels.com/leaderboard</>
 #  
 ## **RULES**
 1. NO FFA (except for in FFA zone)
